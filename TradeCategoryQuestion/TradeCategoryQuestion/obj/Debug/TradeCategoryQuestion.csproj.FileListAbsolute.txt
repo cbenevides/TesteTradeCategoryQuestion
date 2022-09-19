@@ -1,0 +1,7 @@
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\obj\Debug\TradeCategoryQuestion.csproj.CoreCompileInputs.cache
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\bin\Debug\TradeCategoryQuestion.exe.config
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\bin\Debug\TradeCategoryQuestion.exe
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\bin\Debug\TradeCategoryQuestion.pdb
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\obj\Debug\TradeCategoryQuestion.exe
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\obj\Debug\TradeCategoryQuestion.pdb
+C:\CLEBER\Trabalho\GFT\Teste\TradeCategoryQuestion\TradeCategoryQuestion\obj\Debug\TradeCategoryQuestion.csprojAssemblyReference.cache

@@ -1,0 +1,4 @@
+Question 2:
+Para nova propriedade booleana, inclua a mesma em ITrade; e no Program. 
+Essa propriedade irá receber o resultado da linha digitada pelo usuario, assim como as demais do ITrade.
+Adicione a regra IsPoliicallyExposed na nova classe PEP, que deve ser extendida da interface ICategorie, e no Controller.
